@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+        int num = 4932;
+        while(num>0){
+        System.out.println("Number = " +num);
+        num=num/10;
+        }
+    }
+        
+}
+
